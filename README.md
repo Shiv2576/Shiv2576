@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shivang !</p>
+<h2 align="left">My name is Shivang !</h2>
 
 ###
 

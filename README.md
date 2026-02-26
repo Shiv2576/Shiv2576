@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang&label=Profile%20views&color=0e75b6&style=flat" alt="shivang" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shiv2576.vercel.app/](https://shiv2576.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shiv2576.vercel.app/](https://shivdx.vercel.app/)
 
 - 📫 How to reach me **dixitshiva12358@gmail.com**
 
